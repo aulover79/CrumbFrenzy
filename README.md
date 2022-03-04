@@ -5,13 +5,13 @@ The main objective of Crumb Frenzy™ is to collect as many crumbs as possible w
 moving around a map to pick up randomly generated crumbs.
 The controls for Crumb Frenzy™ are as follows:
 _________________________________
-Key	   | Outcome                |
-W or I | Move Upwards           |
-A or J | Move Left              |
-S or K | Move Downwards         |
-D or L | Move Right             |
-C      | Display Control Panel  |
-ESC    | Exit Crumb Frenzy      |
+Key	Outcome
+W or I	Move Upwards
+A or J	Move Left
+S or K	Move Downwards
+D or L	Move Right
+C	Display Control Panel
+ESC	Exit Crumb Frenzy
 _________________________________
 
 Compile by opening .pro file in QTCreator. Click the compile button (Hammer)
